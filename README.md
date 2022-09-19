@@ -1,1 +1,1 @@
-# js-advanced-notion
+# Javascript advanced notion
